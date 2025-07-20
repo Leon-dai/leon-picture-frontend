@@ -96,6 +96,11 @@ const originItems = [
     title: '用户管理'
   },
   {
+    key: '/add_picture',
+    label: '创建图片',
+    title: '创建图片',
+  },
+  {
     key: 'others',
     label: h('a', { href: 'https://github.com/Leon-dai', target: '_blank' }, 'Github主页'),
     title: '我的Github主页'
